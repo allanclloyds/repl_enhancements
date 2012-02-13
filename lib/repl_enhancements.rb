@@ -1,5 +1,5 @@
 require "repl_enhancements/version"
 
-module ReplEnhancements
+module REPLEnhancements
   # Your code goes here...
 end
